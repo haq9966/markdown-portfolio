@@ -1,1 +1,1 @@
-I have **dynamic**  personality and a *quick learner*.
+I have **dynamic**  personality and I am a *quick learner*.
