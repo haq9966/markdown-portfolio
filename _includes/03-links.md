@@ -1,1 +1,1 @@
-[Intro to HTML](https://github.com/haq9966/intro-html)
+[Intro to HTML](https://haq9966.github.io/intro-html/)
